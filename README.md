@@ -19,6 +19,6 @@ use injury reports and win shares to figure out key players and penalize teams f
 ### Monte Carlo Simulation 
 $$ Q_A = 10^{R_A/400} $$
 $$ Q_B = 10^{R_B/400} $$
-$$ E_A = \dfrac{Q_A}{Q_A+Q_B}$$  
+$$ E_A = \dfrac{Q_A}{Q_A+Q_B} $$  
 
 etc...
