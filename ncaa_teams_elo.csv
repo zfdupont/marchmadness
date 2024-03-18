@@ -1,243 +1,704 @@
 ,name,abbrev,wins,losses,elo
-0,Houston Cougars,HOU,29,3,1728.5
-1,UConn Huskies,CONN,29,3,1715.5
-2,Purdue Boilermakers,PUR,28,3,1711.5
-3,North Carolina Tar Heels,UNC,26,6,1663.2
-4,Arizona Wildcats,ARIZ,25,7,1651.7
-5,James Madison Dukes,JMU,12,1,1650.3
-6,Tennessee Volunteers,TENN,24,7,1647.6
-7,Marquette Golden Eagles,MARQ,24,8,1635.6
-8,Kentucky Wildcats,UK,23,8,1632.4
-9,Baylor Bears,BAY,23,9,1626.9
-10,Florida Atlantic Owls,FAU,20,6,1626.7
-11,Illinois Fighting Illini,ILL,22,8,1625.9
-12,Memphis Tigers,MEM,10,3,1621.2
-13,Duke Blue Devils,DUKE,24,8,1618.9
-14,Kansas Jayhawks,KU,22,10,1612.4
-15,Iowa State Cyclones,ISU,13,6,1611.3
-16,Saint Mary's Gaels,SMC,9,2,1608.9
-17,Creighton Bluejays,CREI,22,9,1606.8
-18,Gonzaga Bulldogs,GONZ,15,6,1602.9
-19,Utah State Aggies,USU,13,3,1602.1
-20,South Carolina Gamecocks,SC,9,4,1581.5
-21,Auburn Tigers,AUB,14,6,1581.0
-22,Miami Hurricanes,MIA,9,5,1571.5
-23,Texas Longhorns,TEX,15,10,1570.1
-24,UNLV Rebels,UNLV,4,1,1569.9
-25,BYU Cougars,BYU,17,10,1569.7
-26,South Florida Bulls,USF,4,1,1562.6
-27,Dayton Flyers,DAY,11,6,1560.2
-28,Washington State Cougars,WSU,5,2,1556.8
-29,Wisconsin Badgers,WIS,13,10,1554.3
-30,Georgia Tech Yellow Jackets,GT,3,1,1552.3
-31,Texas Tech Red Raiders,TTU,8,6,1549.9
-32,Oklahoma Sooners,OU,12,10,1546.4
-33,Colorado State Rams,CSU,9,7,1541.8
-34,UAB Blazers,UAB,2,1,1540.9
-35,New Mexico Lobos,UNM,6,5,1538.3
-36,Clemson Tigers,CLEM,7,5,1536.2
-37,Boise State Broncos,BOIS,3,2,1531.5
-38,Alabama Crimson Tide,ALA,13,10,1530.6
-39,Texas A&M Aggies,TA&M,9,8,1529.7
-40,Nevada Wolf Pack,NEV,3,2,1529.1
-41,Florida Gators,FLA,5,5,1528.9
-42,Penn State Nittany Lions,PSU,2,2,1527.6
-43,Florida Gulf Coast Eagles,FGCU,1,0,1526.4
-44,UNC Wilmington Seahawks,UNCW,1,0,1525.2
-45,San Diego State Aztecs,SDSU,8,7,1524.9
-46,Weber State Wildcats,WEB,1,0,1522.2
-47,Drexel Dragons,DREX,1,0,1521.9
-48,Washington Huskies,WASH,2,2,1520.1
-49,Pittsburgh Panthers,PITT,2,2,1520.0
-50,Grand Canyon Lopes,GCU,1,0,1519.9
-51,LSU Tigers,LSU,3,4,1512.3
-52,Oregon State Beavers,ORST,1,1,1511.9
-53,Nebraska Cornhuskers,NEB,2,3,1511.8
-54,Southern Miss Golden Eagles,USM,1,1,1510.9
-55,Colorado Buffaloes,COLO,4,4,1510.2
-56,Northwestern Wildcats,NU,3,4,1509.5
-57,Santa Clara Broncos,SCU,1,1,1508.4
-58,UNC Greensboro Spartans,UNCG,1,1,1507.8
-59,Duquesne Dukes,DUQ,1,1,1507.8
-60,VCU Rams,VCU,1,1,1506.4
-61,George Mason Patriots,GMU,1,1,1506.1
-62,Illinois State Redbirds,ILST,1,1,1505.9
-63,Richmond Spiders,RICH,1,1,1504.6
-64,USC Trojans,USC,5,6,1503.5
-65,Bryant Bulldogs,BRY,1,1,1503.2
-66,Chicago State Cougars,CHST,1,1,1503.1
-67,Southern Illinois Salukis,SIU,1,1,1501.0
-68,Tulsa Golden Hurricane,TLSA,1,2,1500.8
-69,UC Irvine Anteaters,UCI,1,1,1499.7
-70,Arizona State Sun Devils,ASU,1,2,1498.9
-71,Providence Friars,PROV,3,6,1498.4
-72,Tulane Green Wave,TULN,1,2,1497.5
-73,Ohio State Buckeyes,OSU,2,4,1495.0
-74,Michigan State Spartans,MSU,5,7,1494.9
-75,Virginia Cavaliers,UVA,4,5,1494.0
-76,Charlotte 49ers,CLT,1,2,1491.3
-77,Loyola Chicago Ramblers,LUC,1,2,1491.0
-78,Saint Joseph's Hawks,JOES,1,2,1489.1
-79,Louisiana Ragin' Cajuns,UL,0,1,1488.6
-80,Eastern Kentucky Colonels,EKU,0,1,1487.9
-81,Jacksonville Dolphins,JAX,0,1,1487.6
-82,Temple Owls,TEM,0,1,1487.3
-83,Coppin State Eagles,COPP,0,1,1487.2
-84,North Texas Mean Green,UNT,0,1,1487.1
-85,Kansas State Wildcats,KSU,4,8,1486.7
-86,Seton Hall Pirates,HALL,3,6,1486.6
-87,Northwestern State Demons,NWST,0,1,1486.5
-88,Hampton Pirates,HAMP,0,1,1486.5
-89,Cornell Big Red,COR,0,1,1486.0
-90,New Hampshire Wildcats,UNH,0,1,1486.0
-91,Montana Grizzlies,MONT,0,1,1485.8
-92,East Carolina Pirates,ECU,0,1,1485.7
-93,Austin Peay Governors,APSU,0,1,1485.6
-94,St. Thomas-Minnesota Tommies,STMN,0,1,1485.6
-95,Wake Forest Demon Deacons,WAKE,1,3,1485.6
-96,Fairleigh Dickinson Knights,FDU,0,1,1485.6
-97,Central Michigan Chippewas,CMU,0,1,1485.3
-98,Charleston Cougars,COFC,0,1,1485.1
-99,Norfolk State Spartans,NORF,0,1,1485.1
-100,Keystone Keystone,KEYSTONE,0,1,1485.0
-101,Adams State Grizzlies,ADST,0,1,1485.0
-102,Monmouth Hawks,MONM,0,1,1484.9
-103,Tarleton State Texans,TAR,0,1,1484.7
-104,Long Island University Sharks,LIU,0,1,1484.7
-105,Green Bay Phoenix,GB,0,1,1484.4
-106,Cincinnati Bearcats,CIN,4,8,1484.4
-107,Maryland Terrapins,MD,1,3,1484.3
-108,Charleston Southern Buccaneers,CHSO,0,1,1484.2
-109,Liberty Flames,LIB,0,1,1484.2
-110,Buffalo Bulls,BUFF,0,1,1484.1
-111,Loyola Marymount Lions,LMU,0,1,1484.1
-112,Central Arkansas Bears,CARK,0,1,1484.1
-113,Bellarmine Knights,BELL,0,1,1483.8
-114,Houston Christian Huskies,HCU,0,1,1483.7
-115,Fordham Rams,FOR,0,1,1483.7
-116,Davidson Wildcats,DAV,0,1,1483.5
-117,Chaminade Silverswords,CHAM,0,1,1483.4
-118,Georgia Southern Eagles,GASO,0,1,1483.3
-119,Belmont Bruins,BEL,0,1,1483.3
-120,Northern Iowa Panthers,UNI,0,1,1483.2
-121,Mercer Bears,MER,0,1,1483.2
-122,CSU Pueblo Thunderwolves,CSTP,0,1,1483.2
-123,Towson Tigers,TOW,0,1,1483.2
-124,Oral Roberts Golden Eagles,ORU,0,1,1483.2
-125,Marshall Thundering Herd,MRSH,0,1,1483.1
-126,Georgia State Panthers,GAST,0,1,1482.8
-127,Hofstra Pride,HOF,0,1,1482.6
-128,Wofford Terriers,WOF,0,1,1482.2
-129,South Alabama Jaguars,USA,0,1,1482.2
-130,Evansville Purple Aces,EVAN,0,1,1482.2
-131,UC Riverside Highlanders,UCR,0,1,1482.2
-132,Stetson Hatters,STET,0,1,1482.2
-133,Utah Utes,UTAH,1,3,1482.0
-134,Villanova Wildcats,VILL,5,9,1481.8
-135,Jacksonville State Gamecocks,JVST,0,1,1481.7
-136,Northeastern Huskies,NE,0,1,1481.4
-137,North Dakota State Bison,NDSU,0,1,1481.2
-138,John Brown Golden Eagles,JBROWN,0,1,1481.2
-139,Rider Broncs,RID,0,1,1481.2
-140,Delaware State Hornets,DSU,0,1,1481.2
-141,Bucknell Bison,BUCK,0,1,1481.2
-142,Le Moyne Dolphins,LEM,0,1,1481.2
-143,Oakland Golden Grizzlies,OAK,0,1,1481.2
-144,Lehigh Mountain Hawks,LEH,0,1,1481.2
-145,Eastern Oregon Mountaineers,EORE,0,1,1481.2
-146,Eastern Michigan Eagles,EMU,0,1,1481.2
-147,George Washington Revolutionaries,GW,0,1,1481.1
-148,Valparaiso Beacons,VAL,0,1,1481.1
-149,Iona Gaels,IONA,0,1,1481.0
-150,Brown Bears,BRWN,0,1,1481.0
-151,TCU Horned Frogs,TCU,4,9,1480.8
-152,Rhode Island Rams,URI,0,1,1480.3
-153,Troy Trojans,TROY,0,1,1480.0
-154,Samford Bulldogs,SAM,0,1,1480.0
-155,Florida A&M Rattlers,FAMU,0,1,1480.0
-156,Stanislaus State Warriors,STNSLS,0,1,1480.0
-157,Northern Illinois Huskies,NIU,0,1,1480.0
-158,American University Eagles,AMER,0,1,1480.0
-159,Incarnate Word Cardinals,UIW,0,1,1480.0
-160,Cal State Fullerton Titans,CSUF,0,1,1480.0
-161,New Mexico State Aggies,NMSU,0,1,1480.0
-162,NJIT Highlanders,NJIT,0,1,1480.0
-163,Tennessee Tech Golden Eagles,TNTC,0,1,1480.0
-164,UL Monroe Warhawks,ULM,0,1,1480.0
-165,Northern Arizona Lumberjacks,NAU,0,1,1480.0
-166,Dartmouth Big Green,DART,0,1,1480.0
-167,North Carolina Central Eagles,NCCU,0,1,1480.0
-168,Milwaukee Panthers,MILW,0,1,1480.0
-169,Virginia Tech Hokies,VT,1,3,1478.9
-170,NC State Wolfpack,NCSU,1,4,1478.8
-171,Stanford Cardinal,STAN,1,3,1478.6
-172,Michigan Wolverines,MICH,1,4,1478.4
-173,Rutgers Scarlet Knights,RUTG,1,4,1477.7
-174,UTSA Roadrunners,UTSA,0,2,1474.8
-175,Southern Jaguars,SOU,1,3,1474.3
-176,California Golden Bears,CAL,0,2,1473.9
-177,Jackson State Tigers,JKST,0,2,1473.1
-178,Pennsylvania Quakers,PENN,1,3,1472.7
-179,UT Arlington Mavericks,UTA,0,2,1471.2
-180,Colgate Raiders,COLG,0,2,1470.7
-181,Texas Southern Tigers,TXSO,0,2,1470.5
-182,Kansas City Roos,KC,0,2,1470.3
-183,SMU Mustangs,SMU,0,2,1470.2
-184,Syracuse Orange,SYR,1,4,1470.1
-185,San Diego Toreros,USD,0,2,1469.8
-186,Florida State Seminoles,FSU,1,4,1469.6
-187,Old Dominion Monarchs,ODU,0,2,1468.9
-188,Yale Bulldogs,YALE,0,2,1468.8
-189,Morgan State Bears,MORG,0,2,1468.7
-190,St. John's Red Storm,SJU,1,5,1468.6
-191,St. Bonaventure Bonnies,SBU,0,2,1468.4
-192,Butler Bulldogs,BUT,2,6,1468.3
-193,Florida International Panthers,FIU,0,2,1467.9
-194,Air Force Falcons,AFA,0,2,1467.7
-195,Texas A&M-Corpus Christi Islanders,AMCC,0,2,1467.6
-196,Queens University Royals,QUOC,0,2,1467.4
-197,Manhattan Jaspers,MAN,0,2,1467.4
-198,Nicholls Colonels,NICH,0,2,1466.8
-199,West Virginia Mountaineers,WVU,2,6,1466.8
-200,Denver Pioneers,DEN,0,2,1466.4
-201,Eastern Illinois Panthers,EIU,0,2,1465.4
-202,Cal State Bakersfield Roadrunners,CSUB,0,2,1465.3
-203,Gardner-Webb Runnin' Bulldogs,GWEB,0,2,1464.4
-204,Minnesota Golden Gophers,MINN,0,3,1464.3
-205,Saint Louis Billikens,SLU,0,2,1463.5
-206,Stonehill Skyhawks,STO,0,2,1463.3
-207,Southern Indiana Screaming Eagles,USI,0,2,1463.3
-208,Texas State Bobcats,TXST,0,3,1463.0
-209,Texas A&M-Commerce Lions,TAMC,0,2,1462.3
-210,Morehead State Eagles,MORE,0,2,1462.3
-211,Alcorn State Braves,ALCN,0,2,1461.3
-212,Wyoming Cowboys,WYO,1,4,1461.3
-213,UCF Knights,UCF,3,9,1460.2
-214,Oregon Ducks,ORE,0,3,1459.4
-215,Arkansas Razorbacks,ARK,5,10,1458.8
-216,Rice Owls,RICE,0,3,1458.6
-217,San Francisco Dons,SF,0,3,1456.8
-218,Boston College Eagles,BC,0,3,1456.1
-219,Arkansas-Pine Bluff Golden Lions,UAPB,0,3,1455.5
-220,Mississippi Valley State Delta Devils,MVSU,0,3,1454.9
-221,Pepperdine Waves,PEPP,0,3,1454.2
-222,Oklahoma State Cowboys,OKST,1,6,1454.1
-223,Wichita State Shockers,WICH,0,4,1453.0
-224,La Salle Explorers,LAS,0,3,1450.7
-225,Mississippi State Bulldogs,MSST,3,7,1450.2
-226,Iowa Hawkeyes,IOWA,1,6,1448.5
-227,Radford Highlanders,RAD,0,3,1447.6
-228,Indiana State Sycamores,INST,0,3,1442.6
-229,Georgetown Hoyas,GTWN,0,5,1440.5
-230,Louisville Cardinals,LOU,0,5,1434.8
-231,Notre Dame Fighting Irish,ND,0,5,1434.7
-232,UCLA Bruins,UCLA,0,5,1431.1
-233,Indiana Hoosiers,IU,0,6,1429.7
-234,Ole Miss Rebels,MISS,3,8,1429.3
-235,San José State Spartans,SJSU,0,5,1422.6
-236,Missouri Tigers,MIZ,0,6,1420.2
-237,Georgia Bulldogs,UGA,0,6,1415.0
-238,Fresno State Bulldogs,FRES,0,6,1410.7
-239,DePaul Blue Demons,DEP,0,8,1402.3
-240,Xavier Musketeers,XAV,0,9,1400.8
-241,Vanderbilt Commodores,VAN,0,9,1383.6
+0,Houston Cougars,HOU,30,4,1826.6
+1,UConn Huskies,CONN,31,3,1821.3
+2,Purdue Boilermakers,PUR,29,4,1799.7
+3,Iowa State Cyclones,ISU,27,7,1784.1
+4,Utah State Aggies,USU,27,6,1777.9
+5,Grand Canyon Lopes,GCU,29,4,1761.4
+6,Auburn Tigers,AUB,27,7,1757.8
+7,North Carolina Tar Heels,UNC,27,7,1756.3
+8,McNeese Cowboys,MCN,30,3,1750.6
+9,South Carolina Gamecocks,SC,26,7,1748.3
+10,Drake Bulldogs,DRKE,28,6,1745.3
+11,James Madison Dukes,JMU,31,3,1744.6
+12,Indiana State Sycamores,INST,28,6,1743.7
+13,Samford Bulldogs,SAM,29,5,1742.8
+14,Nevada Wolf Pack,NEV,26,7,1741.5
+15,New Mexico Lobos,UNM,26,9,1741.3
+16,Dayton Flyers,DAY,24,7,1733.2
+17,Tennessee Volunteers,TENN,24,8,1733.1
+18,Saint Mary's Gaels,SMC,26,7,1730.9
+19,Illinois Fighting Illini,ILL,26,8,1729.4
+20,Vermont Catamounts,UVM,28,6,1729.1
+21,Gonzaga Bulldogs,GONZ,25,7,1720.4
+22,Princeton Tigers,PRIN,24,4,1714.2
+23,Texas Tech Red Raiders,TTU,23,10,1711.8
+24,Arizona Wildcats,ARIZ,25,8,1711.4
+25,Marquette Golden Eagles,MARQ,25,9,1710.3
+26,Appalachian State Mountaineers,APP,27,6,1709.9
+27,South Florida Bulls,USF,24,7,1709.3
+28,Duke Blue Devils,DUKE,24,8,1707.4
+29,Charleston Cougars,COFC,27,7,1706.4
+30,San Diego State Aztecs,SDSU,24,10,1706.1
+31,Florida Atlantic Owls,FAU,25,8,1705.6
+32,Kentucky Wildcats,UK,23,9,1703.9
+33,Baylor Bears,BAY,23,10,1703.1
+34,Kansas Jayhawks,KU,22,10,1699.7
+35,BYU Cougars,BYU,23,10,1698.7
+36,Florida Gators,FLA,24,11,1694.4
+37,Creighton Bluejays,CREI,23,9,1693.5
+38,Boise State Broncos,BOIS,22,10,1691.3
+39,Colorado Buffaloes,COLO,24,10,1689.8
+40,Alabama Crimson Tide,ALA,21,11,1685.8
+41,Cornell Big Red,COR,22,7,1685.6
+42,Washington State Cougars,WSU,24,9,1684.7
+43,Richmond Spiders,RICH,23,9,1683.9
+44,Colorado State Rams,CSU,24,10,1682.8
+45,Loyola Chicago Ramblers,LUC,23,9,1681.2
+46,High Point Panthers,HPU,25,8,1680.9
+47,TCU Horned Frogs,TCU,21,12,1677.9
+48,Wisconsin Badgers,WIS,22,13,1677.7
+49,Duquesne Dukes,DUQ,24,11,1676.1
+50,Virginia Cavaliers,UVA,23,10,1675.5
+51,Morehead State Eagles,MORE,26,8,1674.9
+52,Nebraska Cornhuskers,NEB,23,10,1670.5
+53,Oregon Ducks,ORE,23,11,1661.5
+54,UC Irvine Anteaters,UCI,24,9,1658.4
+55,Oklahoma Sooners,OU,20,12,1658.1
+56,Yale Bulldogs,YALE,22,9,1657.3
+57,Texas Longhorns,TEX,20,12,1656.3
+58,Bradley Braves,BRAD,22,11,1654.0
+59,Memphis Tigers,MEM,22,10,1653.8
+60,Tarleton State Texans,TAR,23,9,1653.0
+61,UAB Blazers,UAB,23,11,1651.5
+62,Northwestern Wildcats,NU,21,11,1650.8
+63,San Francisco Dons,SF,23,10,1650.6
+64,Pittsburgh Panthers,PITT,22,11,1649.9
+65,Kansas State Wildcats,KSU,19,14,1648.7
+66,Eastern Washington Eagles,EWU,21,11,1648.6
+67,Mississippi State Bulldogs,MSST,21,13,1644.9
+68,Clemson Tigers,CLEM,21,11,1643.6
+69,VCU Rams,VCU,22,13,1642.4
+70,UNC Greensboro Spartans,UNCG,21,11,1641.8
+71,Ole Miss Rebels,MISS,20,12,1641.8
+72,Akron Zips,AKR,24,10,1638.1
+73,Syracuse Orange,SYR,20,12,1636.4
+74,Louisiana Tech Bulldogs,LT,22,10,1635.4
+75,NC State Wolfpack,NCSU,22,14,1634.4
+76,Cincinnati Bearcats,CIN,20,14,1631.2
+77,Colgate Raiders,COLG,25,9,1630.6
+78,Oakland Golden Grizzlies,OAK,23,11,1630.5
+79,UNLV Rebels,UNLV,19,12,1630.0
+80,Western Carolina Catamounts,WCU,22,10,1628.3
+81,Texas A&M Aggies,TA&M,20,14,1627.9
+82,Saint Joseph's Hawks,JOES,21,13,1625.9
+83,UMass Lowell River Hawks,UML,22,10,1624.1
+84,St. John's Red Storm,SJU,20,13,1624.0
+85,Seton Hall Pirates,HALL,20,12,1623.4
+86,UNC Asheville Bulldogs,UNCA,22,12,1622.4
+87,Massachusetts Minutemen,MASS,20,11,1620.8
+88,Montana Grizzlies,MONT,23,11,1620.6
+89,Providence Friars,PROV,21,13,1620.1
+90,Michigan State Spartans,MSU,19,14,1619.1
+91,South Dakota State Jackrabbits,SDST,22,12,1618.4
+92,Wake Forest Demon Deacons,WAKE,20,13,1618.1
+93,Quinnipiac Bobcats,QUIN,24,9,1614.7
+94,Youngstown State Penguins,YSU,22,10,1612.6
+95,George Mason Patriots,GMU,20,12,1612.2
+96,Ohio State Buckeyes,OSU,20,13,1609.2
+97,Northern Iowa Panthers,UNI,19,14,1607.3
+98,Sam Houston Bearkats,SHSU,21,12,1606.3
+99,Bryant Bulldogs,BRY,20,13,1605.8
+100,Indiana Hoosiers,IU,19,14,1605.3
+101,Charlotte 49ers,CLT,19,12,1605.2
+102,UNC Wilmington Seahawks,UNCW,21,10,1605.2
+103,Utah Utes,UTAH,19,14,1604.7
+104,UCF Knights,UCF,17,15,1604.6
+105,Toledo Rockets,TOL,20,12,1603.6
+106,St. Bonaventure Bonnies,SBU,20,13,1603.1
+107,Virginia Tech Hokies,VT,18,14,1602.3
+108,Drexel Dragons,DREX,20,12,1601.1
+109,Western Kentucky Hilltoppers,WKU,22,11,1600.6
+110,UC San Diego Tritons,UCSD,21,11,1600.2
+111,Chattanooga Mocs,UTC,21,12,1599.9
+112,Santa Clara Broncos,SCU,20,13,1597.2
+113,UT Martin Skyhawks,UTM,21,11,1596.4
+114,Georgia Bulldogs,UGA,17,16,1594.8
+115,Western Illinois Leathernecks,WIU,21,12,1592.7
+116,Iowa Hawkeyes,IOWA,18,14,1591.8
+117,UT Arlington Mavericks,UTA,20,14,1590.3
+118,Towson Tigers,TOW,20,14,1588.4
+119,Minnesota Golden Gophers,MINN,18,14,1587.5
+120,Seattle U Redhawks,SEA,19,14,1584.4
+121,SMU Mustangs,SMU,20,12,1583.9
+122,Belmont Bruins,BEL,20,13,1583.0
+123,UC Davis Aggies,UCD,20,13,1582.7
+124,Long Beach State Beach,LBSU,21,14,1582.2
+125,Fairfield Stags,FAIR,22,12,1581.6
+126,Butler Bulldogs,BUT,18,14,1581.1
+127,LSU Tigers,LSU,17,15,1580.3
+128,Boston College Eagles,BC,19,15,1578.4
+129,Norfolk State Spartans,NORF,22,11,1576.8
+130,Ohio Bobcats,OHIO,20,13,1576.8
+131,Florida State Seminoles,FSU,17,17,1575.7
+132,St. Thomas-Minnesota Tommies,STMN,20,13,1575.0
+133,Longwood Lancers,LONG,21,13,1574.5
+134,Bowling Green Falcons,BGSU,20,13,1573.4
+135,Stetson Hatters,STET,22,12,1573.4
+136,Texas A&M-Corpus Christi Islanders,AMCC,21,11,1572.9
+137,Little Rock Trojans,LR,21,12,1572.9
+138,Furman Paladins,FUR,17,16,1572.6
+139,Weber State Wildcats,WEB,20,12,1572.4
+140,Washington Huskies,WASH,17,15,1569.8
+141,Troy Trojans,TROY,20,12,1569.0
+142,North Texas Mean Green,UNT,18,14,1568.9
+143,Central Connecticut Blue Devils,CCSU,20,11,1568.5
+144,Lipscomb Bisons,LIP,20,12,1567.7
+145,Hawai'i Rainbow Warriors,HAW,20,14,1564.8
+146,Hofstra Pride,HOF,20,13,1564.5
+147,Southern Illinois Salukis,SIU,19,13,1564.0
+148,Nicholls Colonels,NICH,20,14,1563.1
+149,Louisiana Ragin' Cajuns,UL,19,14,1562.0
+150,Northern Colorado Bears,UNCO,19,13,1561.9
+151,East Tennessee State Buccaneers,ETSU,19,16,1560.1
+152,Central Michigan Chippewas,CMU,18,14,1557.3
+153,Villanova Wildcats,VILL,18,15,1557.2
+154,Wofford Terriers,WOF,17,15,1552.3
+155,Xavier Musketeers,XAV,16,17,1551.4
+156,Stony Brook Seawolves,STBK,20,15,1551.3
+157,Wyoming Cowboys,WYO,15,17,1549.8
+158,Purdue Fort Wayne Mastodons,PFW,21,12,1548.3
+159,Arkansas Razorbacks,ARK,16,17,1547.2
+160,Saint Peter's Peacocks,SPU,19,13,1546.0
+161,Maryland Terrapins,MD,16,17,1545.1
+162,Wright State Raiders,WRST,18,14,1544.8
+163,Winthrop Eagles,WIN,17,15,1544.1
+164,Cleveland State Vikings,CLEV,20,14,1541.4
+165,Liberty Flames,LIB,18,14,1541.1
+166,Missouri State Bears,MOST,17,16,1541.0
+167,Eastern Kentucky Colonels,EKU,17,14,1540.5
+168,UC Santa Barbara Gauchos,UCSB,16,15,1540.0
+169,Northern Kentucky Norse,NKU,18,15,1539.0
+170,Green Bay Phoenix,GB,18,14,1538.6
+171,Milwaukee Panthers,MILW,20,15,1538.1
+172,Miami Hurricanes,MIA,15,17,1537.5
+173,UCLA Bruins,UCLA,16,17,1537.4
+174,Lamar Cardinals,LAM,19,14,1536.6
+175,Stephen F. Austin Lumberjacks,SFA,18,15,1535.8
+176,UTEP Miners,UTEP,18,16,1535.4
+177,Delaware Blue Hens,DEL,19,14,1534.1
+178,Gardner-Webb Runnin' Bulldogs,GWEB,17,16,1534.1
+179,Austin Peay Governors,APSU,19,15,1533.6
+180,Cal State Northridge Matadors,CSUN,19,15,1532.6
+181,Anderson (SC) Trojans,ANDERSC,1,0,1531.7
+182,Montana State Bobcats,MTST,17,17,1531.6
+183,Arkansas State Red Wolves,ARST,18,16,1531.5
+184,North Carolina Central Eagles,NCCU,18,13,1530.5
+185,Stanford Cardinal,STAN,14,18,1530.2
+186,Clark Atlanta Panthers,CLK,1,0,1530.0
+187,Merrimack Warriors,MRMK,21,12,1529.8
+188,California Baptist Lancers,CBU,16,17,1529.6
+189,Rocky Mountain Bears,RKYMTC,1,0,1529.3
+190,Tennessee State Tigers,TNST,18,15,1528.7
+191,Tulsa Golden Hurricane,TLSA,16,15,1527.9
+192,Penn State Nittany Lions,PSU,16,17,1527.8
+193,La Salle Explorers,LAS,16,17,1527.4
+194,Utah Valley Wolverines,UVU,16,16,1527.0
+195,Harvard Crimson,HARV,14,13,1526.8
+196,Portland State Vikings,PRST,17,15,1525.9
+197,Kent State Golden Flashes,KENT,17,17,1524.8
+198,Rutgers Scarlet Knights,RUTG,15,17,1524.4
+199,Davidson Wildcats,DAV,15,17,1523.2
+200,Albany St (GA) Golden Rams,ALBGA,1,0,1521.9
+201,New Hampshire Wildcats,UNH,16,15,1521.8
+202,Marist Red Foxes,MRST,18,13,1521.2
+203,Monmouth Hawks,MONM,18,15,1519.1
+204,Grambling Tigers,GRAM,20,14,1519.1
+205,Arizona State Sun Devils,ASU,14,18,1518.8
+206,Tulane Green Wave,TULN,14,17,1517.7
+207,San Diego Toreros,USD,18,15,1516.9
+208,Denver Pioneers,DEN,17,17,1515.0
+209,Georgia Tech Yellow Jackets,GT,14,18,1514.9
+210,East Carolina Pirates,ECU,15,18,1514.2
+211,North Dakota Fighting Hawks,UND,18,14,1514.0
+212,Illinois State Redbirds,ILST,15,17,1513.8
+213,UC Riverside Highlanders,UCR,16,18,1513.4
+214,George Washington Revolutionaries,GW,15,17,1512.5
+215,SIU Edwardsville Cougars,SIUE,17,16,1511.3
+216,USC Trojans,USC,15,18,1509.3
+217,Mercer Bears,MER,16,17,1508.4
+218,Radford Highlanders,RAD,16,17,1507.8
+219,Southern Jaguars,SOU,18,14,1507.5
+220,California Golden Bears,CAL,13,19,1506.8
+221,North Florida Ospreys,UNF,16,16,1506.7
+222,Columbia Lions,COLU,13,14,1506.6
+223,Binghamton Bearcats,BING,15,15,1505.3
+224,Southern Miss Golden Eagles,USM,16,16,1503.7
+225,Cal State Fullerton Titans,CSUF,14,18,1503.6
+226,Howard Bison,HOW,18,16,1502.9
+227,Fresno State Bulldogs,FRES,12,21,1502.7
+228,Oregon State Beavers,ORST,13,19,1502.1
+229,Oklahoma State Cowboys,OKST,12,20,1501.7
+230,Evansville Purple Aces,EVAN,16,17,1501.0
+231,Temple Owls,TEM,16,20,1500.5
+232,Wichita State Shockers,WICH,15,19,1499.8
+233,Kansas City Roos,KC,16,16,1499.3
+234,Abilene Christian Wildcats,ACU,15,17,1498.0
+235,Mobile Rams,MOBIL,1,1,1493.8
+236,Fordham Rams,FOR,13,20,1493.7
+237,Maine Black Bears,ME,15,17,1493.0
+238,Ball State Cardinals,BALL,15,16,1492.9
+239,Iona Gaels,IONA,16,17,1492.4
+240,Texas State Bobcats,TXST,17,18,1492.0
+241,Miami (OH) RedHawks,M-OH,15,17,1491.8
+242,Notre Dame Fighting Irish,ND,13,20,1490.6
+243,North Dakota State Bison,NDSU,15,17,1490.6
+244,E. New Mexico Greyhounds,EASTERNNM,0,1,1486.6
+245,South Alabama Jaguars,USA,16,16,1486.5
+246,Eastern Illinois Panthers,EIU,14,18,1485.4
+247,Northwest Nazarene Nw Nazarene,NWNAZ,0,1,1485.1
+248,CSU Pueblo Thunderwolves,CSTP,0,1,1484.6
+249,Omaha Mavericks,OMA,15,18,1484.4
+250,Niagara Purple Eagles,NIA,16,16,1484.1
+251,Kennesaw State Owls,KENN,15,16,1483.9
+252,Delaware Valley Aggies,DV,0,1,1483.7
+253,Gallaudet Bison,GALLAUDET,0,1,1483.6
+254,Sacred Heart Pioneers,SHU,16,16,1483.6
+255,Wells College Express,WELLS,0,1,1482.7
+256,Saginaw Valley State Cardinals,SAGI,0,1,1481.2
+257,Bowie State Bulldogs,BOWIE,0,1,1480.7
+258,Sterling College (KS) Warriors,STCKS,0,1,1480.5
+259,William Peace William Peace,PEACE,0,1,1480.5
+260,Central Penn Knights,CENTR,0,1,1480.2
+261,Westminster (PA) Titans,WMNPA,0,1,1479.8
+262,Menlo Oaks,MENLO,0,1,1479.4
+263,Saint Louis Billikens,SLU,13,20,1479.4
+264,Concordia-St. Paul Golden Bears,CONCSTP,0,1,1479.3
+265,LaGrange Panthers,LAG,0,1,1479.1
+266,Hardin-Simmons Cowboys,HARDSIM,0,1,1478.9
+267,Siena Heights Saints,SH,0,1,1478.8
+268,Hawai'i Pacific Sea Warriors,HAWAIIPAC,0,1,1478.7
+269,Jacksonville State Gamecocks,JVST,14,18,1478.5
+270,George Fox Bruins,GFU,0,1,1478.4
+271,Northern Arizona Lumberjacks,NAU,14,19,1478.4
+272,Lynchburg Hornets,LYNCHBURG,0,1,1478.3
+273,Brown Bears,BRWN,13,18,1477.7
+274,Rosemont Ravens,ROSEM,0,1,1477.6
+275,Wittenberg Tigers,WITTEN,0,1,1477.2
+276,Florida Gulf Coast Eagles,FGCU,14,18,1476.9
+277,Bethune-Cookman Wildcats,BCU,17,16,1476.8
+278,CS Dominguez Hills Toros,CSDH,0,1,1476.0
+279,Miami (OH)-Hamilton Harriers,MIAMIUHAM,0,1,1475.9
+280,Western Oregon Wolves,WORE,0,1,1475.8
+281,Southwestern Oklahoma State Bulldogs,SWO,0,1,1475.8
+282,Mount Saint Vincent Mount Saint Vincent,COLLE,0,1,1475.7
+283,University of Wisconsin River Falls Falcons,WISCO,0,1,1475.2
+284,Friends University Falcons,FRIE,0,1,1475.1
+285,Heidelberg Student Princes,HEI,0,1,1475.1
+286,Park University Gilbert Buccaneers,PARK,0,1,1474.9
+287,Emerson Emerson,EMERS,0,1,1474.7
+288,Oak Hills Christian Oak Hills Christian,OAKHILLCC,0,1,1474.7
+289,Penn State-Schuylkill Penn State-Schuylkill,PSUSCHU,0,1,1474.5
+290,Ohio Dominican Panthers,ODM,0,1,1474.4
+291,SUNY-Potsdam Bears,SUNY ,0,1,1474.2
+292,Crown College Storm,CROWN,0,1,1473.7
+293,Johnson University (TN) Royals,JHSN,0,1,1473.5
+294,Truman State Bulldogs,TRU,0,1,1473.5
+295,Notre Dame (MD) Gators,NDMD,0,1,1473.3
+296,Tusculum Pioneers,TUS,0,1,1473.2
+297,Bryan (TN) Lions,BRTN,0,1,1473.2
+298,Aurora Spartans,AUR,0,1,1473.0
+299,Warren Wilson Owls,WARWIL,0,1,1473.0
+300,Central Christian College Central Christian,CCCKS,0,1,1473.0
+301,Eastern Oregon Mountaineers,EORE,0,1,1472.8
+302,University Of Saint Mary University Of Saint Mary,STMARYCOL,0,1,1472.6
+303,Morrisville Mustangs,SUNYMORRIS,0,1,1472.6
+304,Penn State (Brandywine) PSU-BRANDYWINE,PSBRANDYWI,0,1,1472.6
+305,Goldey-Beacom Lightning,GOLDE,0,1,1472.6
+306,Milligan Buffaloes,MILLI,0,1,1472.6
+307,Andrews University Cardinals,ANDREWS,0,1,1472.6
+308,Marywood Pacers,MARYWOOD,0,1,1472.6
+309,UT Tyler Patriots,UTT,0,1,1472.6
+310,Plattsburgh St Cardinals,PLATT,0,1,1472.6
+311,Mayville State Comets,MAYVILLE,0,1,1472.6
+312,Montana Tech Orediggers,MTTECH,0,1,1472.4
+313,Bloomsburg Huskies,BLMSB,0,1,1472.3
+314,Western Colorado Mountaineers,WESTSTCOL,0,1,1472.3
+315,Vermont State - Lyndon Hornets,NVERLYND,0,1,1472.2
+316,Trevecca Nazarene Trojans,TREVNAZ,0,1,1472.1
+317,Tennessee Wesleyan Bulldogs,TNWESL,0,1,1472.1
+318,Navajo Tech Skyhawks,NTU,0,1,1472.0
+319,Lake Superior State Lakers,LSS,0,1,1472.0
+320,Willamette Bearcats,WLLMTT,0,1,1472.0
+321,Arcadia Arcadia,ARCAD,0,1,1471.7
+322,Carolina Christian College Centurions,CARCHRIST,0,1,1471.5
+323,Angelo State Rams,ANG,0,1,1471.4
+324,Lynn Fighting Knights,LYNN ,0,1,1471.3
+325,Wagner Seahawks,WAG,16,15,1471.3
+326,Calumet Calumet,CALUM,0,1,1471.2
+327,Campbellsville Tigers,CMPBVIL,0,1,1471.2
+328,FDU Florham Devils,FDUFLOR,0,1,1471.1
+329,Penn State-Allegheny Nittany Lions,PSUGA,0,1,1471.1
+330,William Woods Owls,WILLWOOD,0,1,1471.1
+331,Stanton Elks,STANTON,0,1,1470.9
+332,Bellevue University Bruins,BELLE,0,1,1470.6
+333,Southern Wesleyan Warriors,SOWESL,0,1,1470.5
+334,Kean Cougars,KEAN,0,1,1470.5
+335,Truett-McConnell Bears,TRUET,0,1,1470.5
+336,Fort Valley State Wildcats,FTVALLEY,0,1,1470.4
+337,Hood College Hood College,HOOD ,0,1,1470.4
+338,North Central (MN) Rams,NCENTU,0,1,1470.4
+339,Eastern Mennonite Royals,EMENNO,0,1,1470.4
+340,Illinois Tech Scarlet Hawks,ILLTECH,0,1,1470.4
+341,Valley City Valley City,VALC,0,1,1470.3
+342,Spring Hill Badgers,SPRHILL,0,1,1470.2
+343,Talladega Tornadoes,TALLA,0,1,1470.2
+344,Malone Pioneers,MALONE,0,1,1470.0
+345,Delta State Statesmen,DELTAST,0,1,1470.0
+346,Rust Bearcats,RUST ,0,1,1470.0
+347,Kansas Christian Falcons,KAN CHRIST,0,1,1470.0
+348,Washington and Lee Generals,UWL,0,1,1470.0
+349,Cumberland (KY) Patriots,CUMB,0,1,1470.0
+350,Southwestern Christian Eagles,SWCHRISTU,0,1,1470.0
+351,WVU Tech Golden Bears,WVT,0,1,1470.0
+352,Rivier Rivier,RIVIER,0,1,1470.0
+353,Louisiana Christian Wildcats,LACOLLEGE,0,1,1470.0
+354,Dalton State Roadrunners,DALTO,0,1,1470.0
+355,Hawai'i Hilo Vulcans,HWHILO,0,1,1470.0
+356,Oakwood Ambassadors,OAKWO,0,1,1470.0
+357,Covenant Fighting Scots,COVENANT,0,1,1470.0
+358,St. Thomas (TX) Celts,STTOMTX,0,1,1470.0
+359,Fort Lauderdale Eagles,UFTL,0,1,1470.0
+360,Piedmont Lions,PIEDM,0,1,1470.0
+361,Berry Vikings,BER,0,1,1470.0
+362,Benedictine (AZ) Benedictine (Az),BENMESA,0,1,1470.0
+363,John Jay College Bloodhounds,JOHN,0,1,1470.0
+364,Southwestern Assemblies of God Lions,SWAOG,0,1,1470.0
+365,Massachusetts-Boston Mass. Boston,U-MAS,0,1,1470.0
+366,San Francisco State Gators,SFSU,0,1,1470.0
+367,Coast Guard Bears,USCGA,0,1,1470.0
+368,Millsaps Majors,MIL,0,1,1470.0
+369,Ferrum Panthers,FER,0,1,1470.0
+370,William Carey Crusaders,WILLI,0,1,1470.0
+371,Warner Pacific Knights,WARNE,0,1,1470.0
+372,Virginia Wesleyan Blue Marlins,VAWESL,0,1,1470.0
+373,Life University Running Eagles,LIFE ,0,1,1470.0
+374,Kentucky Wesleyan Panthers,KYWESL,0,1,1470.0
+375,Vassar Brewers,VASSA,0,1,1470.0
+376,Immaculata Immaculata,IMMAC,0,1,1470.0
+377,Concordia-Irvine Eagles,CONCOCA,0,1,1470.0
+378,Sarah Lawrence Gryphons,SLAWCOL,0,1,1470.0
+379,Sonoma State Seawolves,SON,0,1,1470.0
+380,McMurry War Hawks,MCM,0,1,1470.0
+381,William Jessup Warriors,WILLJES,0,1,1470.0
+382,Doane Tigers,DOANE,0,1,1470.0
+383,Trinity Christian (IL) Trolls,TRINIL,0,1,1470.0
+384,Keiser Keiser,KEISER,0,1,1469.8
+385,Montana State-Northern Lights,MSTNORTH,0,1,1469.8
+386,Texas Lutheran Bulldogs,TL,0,1,1469.7
+387,Greensboro College Pride,GRNSBORO,0,1,1469.7
+388,Northwood (MI) Timberwolves,NAR,0,1,1469.7
+389,Blackburn Beavers,BLACKBURN,0,1,1469.5
+390,Ozark Christian Ambassadors,OZARK CHR,0,1,1469.3
+391,Loyola Marymount Lions,LMU,12,19,1469.2
+392,Muskingum Fighting Muskies,MUS,0,1,1469.1
+393,Middle Tennessee Blue Raiders,MTSU,14,19,1469.1
+394,Rider Broncs,RID,15,17,1469.0
+395,Montevallo Falcons,MNTEVAL,0,1,1468.9
+396,St. Elizabeth Eagles,ST.E,0,1,1468.9
+397,LSU Shreveport Pilots,LSUSHRVPT,0,1,1468.8
+398,Arlington Baptist Patriots,ARLIN,0,1,1468.8
+399,Texas Southern Tigers,TXSO,16,16,1468.7
+400,Colby-Sawyer Chargers,COLBSAW,0,1,1468.5
+401,Wiley Wildcats,WILEY,0,1,1468.5
+402,D'Youville Saints,D'YOU,0,1,1468.3
+403,Westmont Warriors,WESTM,0,1,1468.3
+404,Campbell Fighting Camels,CAM,14,18,1468.3
+405,Springfield Pride,SPR,0,1,1468.2
+406,Dallas Crusaders,DALLAS,0,1,1468.1
+407,Whittier Poets,WHI,0,1,1468.0
+408,Pacific Lutheran Lutes,PACLTH,0,1,1467.9
+409,Luther Norse,LUT,0,1,1467.9
+410,SUNY Delhi Broncos,SUNYDELHI,0,1,1467.9
+411,York College Nebraska York (Ne),YORKNE,0,1,1467.9
+412,Saint Augustine's Falcons,STAUG,0,1,1467.9
+413,Edward Waters Tigers,EDWATERS,0,1,1467.5
+414,Dakota Wesleyan Tigers,DWU,0,1,1467.4
+415,Sul Ross State Lobos,SUL,0,1,1467.4
+416,Loras Duhawks,LOR,0,1,1467.4
+417,Molloy Lions,MOLLO,0,1,1467.4
+418,Cheyney (PA) Wolves,CHE,0,1,1467.4
+419,Lyon Scots,LYON ,0,1,1467.4
+420,Worcester State Lancers,WORST,0,1,1467.4
+421,Christendom Christendom,CHRISTEN,0,1,1467.4
+422,North Park Vikings,NOR,0,1,1467.4
+423,Ave Maria Gyrenes,AVE M,0,1,1467.4
+424,La Sierra Golden Eagles,LA SI,0,1,1467.4
+425,Hendrix College Warriors,HENDRIX,0,1,1467.4
+426,Curry College Colonels,CUR,0,1,1467.4
+427,Monmouth (IL) Fighting Scots,MONMIL,0,1,1467.4
+428,Maine-Presque Isle Owls,UMPI,0,1,1467.4
+429,Middle Georgia State Knights,MIDDL,0,1,1467.3
+430,Colorado Christian Cougars,COLOR,0,1,1467.0
+431,Tabor Tabor,TABOR,0,1,1466.6
+432,Davenport Panthers,DAVEN,0,1,1466.5
+433,Milwaukee School Of Engineering Raiders,MILWAENG,0,1,1466.4
+434,North Alabama Lions,UNA,15,17,1466.2
+435,Belhaven Blazers,BELHA,0,1,1466.2
+436,Mary Baldwin Fighting Squirrels,MARY,0,1,1466.2
+437,Limestone Saints,LIMESTONE,0,1,1466.0
+438,Morehouse Maroon Tigers,MOR,0,1,1465.8
+439,Portland Bible Arrows,PORTL,0,1,1465.8
+440,Jacksonville Dolphins,JAX,16,17,1465.7
+441,Lindsey Wilson College Lindwilson,LINDWIL,0,1,1465.7
+442,Elizabeth City State Vikings,ELIZCSU,0,1,1465.7
+443,Coker Cobras,COKER,0,1,1465.4
+444,Westfield State Owls,WES,0,1,1465.3
+445,SUNY-Canton Suny-Canton,SUNYCANT,0,1,1465.3
+446,Ohio Christian Trailblazers,OC,0,1,1465.3
+447,Pacific Union Pacific Union,PACUNION,0,1,1465.3
+448,Mount Saint Mary (NY) Mt St. Mary (Ny),MSMNY,0,1,1465.3
+449,Coe Kohawks,COE,0,1,1465.3
+450,Penn State-York Nittany Lions,PSUYORK,0,1,1465.3
+451,Oglethorpe Stormy Petrels,OGLET,0,1,1465.3
+452,St. Ambrose Fighting Bees,STA,0,1,1465.3
+453,Antelope Valley Antelope Valley,ANTEL,0,1,1465.1
+454,Asbury Eagles,ASBUR,0,1,1465.1
+455,Franciscan University Franciscan,FRANSTEUB,0,1,1465.0
+456,New Mexico State Aggies,NMSU,13,19,1465.0
+457,Roberts Wesleyan Redhawks,RW,0,1,1464.9
+458,Bard College Bard,BARD,0,1,1464.9
+459,Evergreen State Geoducks,EVERG,0,1,1464.9
+460,Mississippi College Choctaws,MIS,0,1,1464.9
+461,Sagu American Indian College Warriors,SAGUAIC,0,1,1464.8
+462,Bluefield University Ramblin' Rams,BLU,0,1,1464.8
+463,Rockford Regents,ROCKF,0,1,1464.7
+464,Birmingham-Southern Panthers,BIRMI,0,1,1464.7
+465,Fredonia State Blue Devils,FREDON,0,1,1464.5
+466,St. Xavier  (IL) Cougars,STX,0,1,1464.3
+467,Harris-Stowe State Hornets,HARRI,0,1,1463.8
+468,Florida Memorial Florida Memorial,FLAMEMRL,0,1,1463.8
+469,Berea Mountaineers,BEREA,0,1,1463.7
+470,Mercy Mavericks,MERCY,0,1,1463.7
+471,Cal Maritime Keelhaulers,CALMA,0,1,1463.6
+472,Washington College (MD) Shoremen,WASHCOL,0,1,1463.6
+473,LeMoyne-Owen Magicians,LEMOWE,0,1,1463.5
+474,Howard Payne Yellow Jackets,HOWPAY,0,1,1463.4
+475,Suny-Oneonta Suny-Oneonta,SUNYONE,0,1,1463.4
+476,Houghton Highlanders,HOUGH,0,1,1463.4
+477,Indiana University Northwest Indiana-Northwest,INDIA,0,1,1463.3
+478,Wilkes University Colonels,WILKES,0,1,1463.2
+479,Rhode Island College Anchormen,RIC,0,1,1462.8
+480,Merchant Marine Academy Mariners,MERCHMAR,0,1,1462.7
+481,Tiffin Dragons,TIF,0,1,1462.4
+482,Rhode Island Rams,URI,12,20,1461.9
+483,Pittsburgh - Greensburg Bobcats,PITTGREEN,0,1,1461.9
+484,Walla Walla Wolves,WALLA,0,1,1461.8
+485,Adams State Grizzlies,ADST,0,2,1461.8
+486,New College (FL) Mighty Banyans,NCF,0,1,1461.7
+487,Pepperdine Waves,PEPP,13,20,1460.9
+488,Buffalo State Bengals,BUF,0,1,1460.3
+489,Our Lady Of The Lake Saints,LADY,0,1,1460.1
+490,Dillard Blue Devils,DILLARD,0,2,1459.8
+491,Murray State Racers,MUR,12,20,1459.7
+492,Saint Vincent Bearcats,STV,0,1,1459.5
+493,Medgar Evers Cougars,MDEV,0,1,1459.5
+494,Aquinas Saints,AQUINMICH,0,1,1459.5
+495,Fresno Pacific Sunbirds,FRESNOPAC,0,2,1459.0
+496,Queens College NY Knights,QUEEN,0,1,1458.8
+497,Montreat Cavaliers,MONTR,0,2,1458.7
+498,Delaware State Hornets,DSU,15,18,1458.5
+499,Cal State Bakersfield Roadrunners,CSUB,13,19,1458.5
+500,Penn State-New Kensington Lions,PSNK,0,1,1458.0
+501,Elms College Elms,ELMS ,0,1,1458.0
+502,Brewton-Parker Wildcats,BREWT,0,1,1457.8
+503,West Virginia Mountaineers,WVU,9,23,1457.1
+504,SUNY-Maritime Privateers,SUNYMAR,0,1,1456.4
+505,Hartford Hawks,HART,0,1,1455.0
+506,Apprentice School Builders,APPRE,0,2,1455.0
+507,UAlbany Great Danes,ALB,13,19,1454.9
+508,American University Eagles,AMER,16,16,1454.2
+509,Idaho State Bengals,IDST,14,20,1454.1
+510,King (TN) Tornado,KINGU,0,2,1453.6
+511,Queens University Royals,QUOC,14,19,1453.5
+512,Bridgewater College (VA) Eagles,BRDVA,0,2,1452.3
+513,Lewis & Clark Pioneers,LEWCLRK,0,2,1451.5
+514,Saint Mary-Of-The-Woods College Pomeroys,SMWC,0,2,1451.5
+515,Le Moyne Dolphins,LEM,15,17,1451.5
+516,Mississippi University For Women Mississippi Univ. For Women,MISSI,0,2,1451.3
+517,University of Saint Katherine Saint Katherine,STKAT,0,2,1451.2
+518,Keystone Keystone,KEYSTONE,0,2,1451.1
+519,LeTourneau Yellow Jackets,LTRN,0,2,1450.9
+520,Boston University Terriers,BU,16,17,1450.3
+521,Bethany (WV) Bison,BETHWV,0,2,1449.9
+522,Columbia International Columbia International,CLMINT,0,2,1449.6
+523,Canisius Golden Griffins,CAN,14,18,1449.3
+524,Western Michigan Broncos,WMU,12,20,1449.2
+525,Vanguard Lions,VANGU,0,2,1448.9
+526,Point Park Pioneers,POINT,0,2,1448.9
+527,Coastal Georgia Mariner,COAST,0,2,1448.1
+528,Northeastern Huskies,NE,12,20,1447.9
+529,La Verne Leopards,LAVERNE,0,2,1447.8
+530,Oakland City Mighty Oaks,OAKCTY,0,2,1447.6
+531,Cleary University Cougars,CLEARY,0,2,1447.5
+532,Colorado College Tigers,COLC,0,2,1447.4
+533,Pennsylvania Quakers,PENN,11,18,1446.9
+534,Goshen Maple Leafs,GOSHE,0,2,1446.4
+535,Bryn Athyn Lions,BRYNATH,0,2,1445.6
+536,Carroll (MT) Fighting Saints,CARROLLMT,0,2,1445.1
+537,Alice Lloyd College Eagles,ALICE,0,2,1445.0
+538,Erskine Flying Fleet,ERSKINE,0,2,1444.8
+539,Wisconsin-Stout Blue Devils,WIST,0,2,1444.8
+540,Waldorf College Warriors,WAL,0,2,1444.7
+541,Northwest University Eagles,NWU,0,2,1444.5
+542,Jackson State Tigers,JKST,15,17,1444.4
+543,South Dakota Mines Hardrockers,SDMT,0,2,1444.3
+544,Fisher College Eagles,FISHE,0,2,1444.0
+545,Occidental Tigers,OCCID,0,2,1443.8
+546,Mount Olive Trojans,MOUNT,0,2,1442.9
+547,Penn State (Wilkes-Barre) Mountain Lions,PSWILKES,0,2,1442.8
+548,Fisk Bulldogs,FISK,0,2,1442.6
+549,Northern Vermont - Johnson Badgers,NVERJOHN,0,2,1442.5
+550,Bob Jones Bob Jones,BOB J,0,2,1442.5
+551,Southern Virginia Knights,SVA,0,2,1442.3
+552,John Brown Golden Eagles,JBROWN,0,2,1442.2
+553,Wilberforce Bulldogs,WILBER,0,2,1442.0
+554,Oral Roberts Golden Eagles,ORU,12,19,1441.9
+555,Shawnee State Bears,SHAWN,0,2,1441.7
+556,Western New Mexico Mustangs,WNMEX,0,2,1441.5
+557,Lake Erie Storm,LAKEERIE,0,2,1441.5
+558,Arkansas Baptist Buffaloes,ARKAN,0,2,1441.1
+559,Bucknell Bison,BUCK,14,19,1441.1
+560,University of Health Sciences & Pharmacy Eutectics,UHSP,0,2,1440.9
+561,Blue Mountain Blue Mountain,BLUE ,0,2,1440.5
+562,Xavier (LA) Gold Rush,XLA,0,2,1440.2
+563,Brevard Tornados,BRE,0,2,1440.0
+564,South Dakota Coyotes,SDAK,12,20,1440.0
+565,Saint Josephs Long Island Bears,SJLI,0,2,1440.0
+566,Pfeiffer Falcons,PFEIF,0,2,1439.9
+567,Spalding Pelicans,SPALD,0,2,1439.8
+568,UTSA Roadrunners,UTSA,11,21,1439.5
+569,Jarvis Christian Bulldogs,JRVCHR,0,2,1439.4
+570,Voorhees Tigers,VOORH,0,2,1439.1
+571,Felician Falcons,FELIC,0,2,1438.7
+572,Georgia State Panthers,GAST,14,17,1438.3
+573,Schreiner Mountaineers,SCHRE,0,2,1437.7
+574,Loyola New Orleans Wolfpack,LOYOL,0,2,1437.6
+575,Presbyterian Blue Hose,PRES,14,18,1437.5
+576,UC Merced Bobcats,UC ME,0,2,1437.5
+577,Portland Pilots,PORT,12,21,1437.5
+578,Regent Royals,REG,0,2,1436.9
+579,Eureka Red Devils,EUR,0,2,1436.7
+580,Science & Arts (OK) Drovers,SAOK,0,2,1436.5
+581,Thomas (ME) Terriers,THOMA,0,2,1436.2
+582,Gwynedd-Mercy Gwynedd-Mercy,GWYNEDD,0,2,1436.0
+583,Southern Utah Thunderbirds,SUU,10,21,1436.0
+584,Kentucky Christian Knights,KYCHR,0,2,1435.8
+585,Mid-America Christian Evangels,MIDACU,0,2,1435.3
+586,Stanislaus State Warriors,STNSLS,0,2,1435.2
+587,Missouri Baptist Spartans,MB,0,2,1435.1
+588,Avila Eagles,AVILA,0,2,1434.8
+589,Marshall Thundering Herd,MRSH,13,20,1434.7
+590,Lehigh Mountain Hawks,LEH,14,18,1434.6
+591,Reinhardt Eagles,REIN,0,2,1434.1
+592,Air Force Falcons,AFA,9,22,1433.7
+593,Chicago State Cougars,CHST,12,18,1433.6
+594,Fairleigh Dickinson Knights,FDU,15,17,1433.6
+595,Alcorn State Braves,ALCN,14,18,1433.2
+596,Utah Tech Trailblazers,UTU,11,20,1433.2
+597,The Citadel Bulldogs,CIT,11,21,1433.2
+598,Trinity (FL) Tigers,TRINI,0,2,1433.2
+599,Eastern Michigan Eagles,EMU,13,18,1432.9
+600,Bethel (TN) Wildcats,BETHTN,0,2,1432.6
+601,South Carolina State Bulldogs,SCST,14,18,1432.1
+602,SE Louisiana Lions,SELA,15,17,1430.8
+603,St. Francis (IL) Fighting Saints,SFIL,0,2,1430.7
+604,Chaminade Silverswords,CHAM,0,3,1429.4
+605,Rice Owls,RICE,11,21,1429.3
+606,Florida International Panthers,FIU,11,22,1428.9
+607,Cairn University Highlanders,CAIRN,0,2,1428.5
+608,Hannibal-Lagrange Trojans,HANNI,0,2,1428.2
+609,East-West University Phantoms,EAWE,0,2,1427.0
+610,Vanderbilt Commodores,VAN,9,23,1426.9
+611,Mount St. Mary's Mountaineers,MSM,13,19,1426.9
+612,St. Mary's (MD) Seahawks,STMARYSMD,0,2,1425.2
+613,Clarks Summit Defenders,CKST,0,2,1425.0
+614,Elon Phoenix,ELON,13,19,1424.6
+615,Arkansas-Pine Bluff Golden Lions,UAPB,13,18,1424.3
+616,Kentucky State Thorobreds,KYSTATE,0,3,1422.7
+617,Life Pacific Life Pacific,LIFEPAC,0,3,1420.7
+618,Missouri Tigers,MIZ,8,24,1420.4
+619,Westcliff Warriors,WCLF,0,3,1420.0
+620,Charleston Southern Buccaneers,CHSO,10,20,1419.6
+621,UIC Flames,UIC,12,21,1418.8
+622,Idaho Vandals,IDHO,11,21,1417.2
+623,North Texas-Dallas Trailblazers,UNTD,0,3,1417.0
+624,South Carolina Upstate Spartans,UPST,10,20,1416.9
+625,Paul Quinn Tigers,PPN,0,3,1416.7
+626,Mount Marty College Lancers,MTMARTY,0,3,1416.4
+627,Boyce Boyce,BOYCE,0,3,1416.4
+628,Alabama State Hornets,ALST,13,19,1416.4
+629,Johnson & Wales (NC) Johnson & Wales (Nc),JOHNS,0,3,1414.6
+630,Johnson University Florida Suns,FLORI,0,3,1413.6
+631,North American Stallions,NAMERICAN,0,3,1411.9
+632,Brescia Bearcats,BRESC,0,4,1410.6
+633,Carolina University Bruins,CARU,0,3,1410.4
+634,UL Monroe Warhawks,ULM,11,19,1409.0
+635,North Greenville Crusaders,NGR,0,3,1408.9
+636,Texas A&M-Commerce Lions,TAMC,13,20,1408.8
+637,Tennessee Tech Golden Eagles,TNTC,10,21,1407.4
+638,Michigan Wolverines,MICH,8,24,1406.1
+639,San José State Spartans,SJSU,9,23,1404.8
+640,Defiance Yellow Jackets,DEF,0,3,1404.8
+641,Lafayette Leopards,LAF,11,21,1403.7
+642,Navy Midshipmen,NAVY,13,18,1403.3
+643,Northern Illinois Huskies,NIU,11,20,1402.5
+644,Georgetown Hoyas,GTWN,9,23,1402.0
+645,UMBC Retrievers,UMBC,11,21,1400.1
+646,Dallas Christian Crusaders,DALLA,0,4,1398.9
+647,Toccoa Falls Eagles,TOCCO,0,4,1398.7
+648,Trinity Baptist Eagles,TRINBAP,0,4,1396.4
+649,College Of Biblical Studies Ambassadors,BIBLICALST,0,3,1396.1
+650,Robert Morris Colonials,RMU,10,22,1394.1
+651,St. Andrews Knights,ST. A,0,4,1392.6
+652,Sacramento State Hornets,SAC,10,24,1392.2
+653,Southeast Missouri State Redhawks,SEMO,9,22,1389.7
+654,Louisville Cardinals,LOU,8,25,1389.6
+655,Mid-Atlantic Christian Mustangs,MATYKL,0,4,1389.1
+656,Ecclesia Royals,ECCLE,0,4,1389.1
+657,Morgan State Bears,MORG,11,20,1380.3
+658,Maryland-Eastern Shore Hawks,UMES,9,20,1378.4
+659,Coastal Carolina Chanticleers,CCU,9,22,1375.0
+660,Georgia Southern Eagles,GASO,9,24,1372.4
+661,Central Arkansas Bears,CARK,9,23,1371.3
+662,Linfield College Wildcats,LIN,9,25,1371.0
+663,William & Mary Tribe,W&M,10,23,1363.2
+664,Valparaiso Beacons,VAL,7,25,1362.9
+665,Prairie View A&M Panthers,PV,10,21,1359.4
+666,Alabama A&M Bulldogs,AAMU,11,22,1357.5
+667,Southern Indiana Screaming Eagles,USI,8,24,1356.7
+668,Dartmouth Big Green,DART,6,21,1356.0
+669,Army Black Knights,ARMY,10,22,1354.3
+670,Hampton Pirates,HAMP,9,24,1352.0
+671,New Orleans Privateers,UNO,10,23,1351.5
+672,North Carolina A&T Aggies,NCAT,7,25,1350.1
+673,Northwestern State Demons,NWST,9,23,1349.3
+674,Holy Cross Crusaders,HC,10,23,1346.8
+675,Bellarmine Knights,BELL,8,23,1346.3
+676,NJIT Highlanders,NJIT,7,21,1344.9
+677,Midway University Midway,MIDWAY,0,6,1341.7
+678,St. Francis (PA) Red Flash,SFPA,8,22,1340.9
+679,UT Rio Grande Valley Vaqueros,RGV,6,25,1340.5
+680,Northwest Indian Eagles,NORTH,0,7,1340.1
+681,Old Dominion Monarchs,ODU,7,25,1325.1
+682,Manhattan Jaspers,MAN,7,23,1320.5
+683,Pacific Tigers,PAC,6,26,1320.2
+684,Long Island University Sharks,LIU,7,22,1319.2
+685,Houston Christian Huskies,HCU,6,23,1311.9
+686,Incarnate Word Cardinals,UIW,8,23,1308.6
+687,Bethesda University Flames,BETHE,0,9,1308.5
+688,Virginia-Lynchburg Dragons,VIRLYN,0,8,1308.4
+689,IUPUI Jaguars,IUPU,6,26,1305.3
+690,Florida A&M Rattlers,FAMU,6,23,1304.9
+691,DePaul Blue Demons,DEP,3,30,1302.9
+692,VMI Keydets,VMI,4,28,1299.8
+693,Champion Christian Tigers,CHAMP,0,8,1295.7
+694,Loyola Maryland Greyhounds,L-MD,7,25,1288.6
+695,Cal Poly Mustangs,CP,4,28,1285.7
+696,Southwestern Adventist Knights,SOUTH,0,9,1271.3
+697,Buffalo Bulls,BUFF,4,27,1264.1
+698,Siena Saints,SIE,4,28,1251.9
+699,Stonehill Skyhawks,STO,4,27,1244.3
+700,Coppin State Eagles,COPP,2,27,1232.7
+701,Detroit Mercy Titans,DETM,1,31,1213.6
+702,Mississippi Valley State Delta Devils,MVSU,1,30,1190.6
